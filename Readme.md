@@ -73,7 +73,7 @@ From your VM's desktop (Firefox is pre-installed), download the Eclipse Neon ins
 
 https://www.eclipse.org
 
-Launch the Eclipse installer and install Eclipse IDE for Java EE Developers.
+Launch the Eclipse installer and install Eclipse IDE for Java Developers.
 
 ## Application Code
 
